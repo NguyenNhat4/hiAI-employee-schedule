@@ -1,4 +1,4 @@
-# Phase 1: Hướng Dẫn Cài Đặt và Cấu Hình
+# Hướng Dẫn Cài Đặt và Cấu Hình
 
 Tài liệu này hướng dẫn chi tiết cách thiết lập môi trường cho hệ thống AI Thống kê xin nghỉ phép, đi trễ,... từ Telegram.
 
